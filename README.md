@@ -1,1 +1,2 @@
-# first-branch
+# third-branch
+App-academy merge conflicts project
