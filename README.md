@@ -1,2 +1,2 @@
-# merg-conflicts
+# third-branch
 App-academy merge conflicts project
